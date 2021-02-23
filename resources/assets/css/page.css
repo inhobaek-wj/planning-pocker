@@ -1,13 +1,8 @@
 h1 {
-    margin:0 auto;
-    font-size:180px;
-    margin-bottom:16px;
-    font-family:'notokr-bold';
-    vertical-align: middle;
+    font-size:200px;
 }
 
 div {
-    height: 100%;
-    margin:0 auto;
+    margin-top: 45%;
     text-align: center;
 }
